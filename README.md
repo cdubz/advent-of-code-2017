@@ -9,3 +9,6 @@
 - [Day 3: Spiral Memory](http://adventofcode.com/2017/day/3)
     - Part 1: [spiral_memory.py](03/spiral_memory.py)
     - Part 2: [spiral_memory_part_two](03/spiral_memory_part_two.py)
+- [Day 4: High-Entropy Passphrases](http://adventofcode.com/2017/day/4)
+    - Part 1: [passphrases.py](04/passphrases.py)
+    - Part 2: [passphrases_memory_part_two](04/passphrases_part_two.py)
