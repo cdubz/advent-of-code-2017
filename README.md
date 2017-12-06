@@ -14,4 +14,7 @@
     - Part 2: [passphrases_memory_part_two.py](04/passphrases_part_two.py)
 - [Day 5: A Maze of Twisty Trampolines, All Alike](http://adventofcode.com/2017/day/5)
     - Part 1: [maze.py](05/maze.py)
-    - Part 2: [maze_memory_part_two.py](05/maze_part_two.py)
+    - Part 2: [maze_part_two.py](05/maze_part_two.py)
+- [Day 6: Memory Reallocation](http://adventofcode.com/2017/day/6)
+    - Part 1: [memory_reallocation.py](06/memory_reallocation.py)
+    - Part 2: [memory_reallocation_part_two.py](06/memory_reallocation_part_two.py)
