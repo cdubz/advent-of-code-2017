@@ -18,3 +18,6 @@
 - [Day 6: Memory Reallocation](http://adventofcode.com/2017/day/6)
     - Part 1: [memory_reallocation.py](06/memory_reallocation.py)
     - Part 2: [memory_reallocation_part_two.py](06/memory_reallocation_part_two.py)
+- [Day 7: Recursive Circus](http://adventofcode.com/2017/day/7)
+    - Part 1: [recursive_circus.py](07/recursive_circus.py)
+    - Part 2: [recursive_circus_part_two.py](07/recursive_circus_part_two.py)
