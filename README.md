@@ -21,3 +21,6 @@
 - [Day 7: Recursive Circus](http://adventofcode.com/2017/day/7)
     - Part 1: [recursive_circus.py](07/recursive_circus.py)
     - Part 2: [recursive_circus_part_two.py](07/recursive_circus_part_two.py)
+- [Day 8: I Heard You Like Registers](http://adventofcode.com/2017/day/8)
+    - Part 1: [registers.py](08/registers.py)
+    - Part 2: [registers_part_two.py](08/registers_part_two.py)
