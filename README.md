@@ -24,3 +24,6 @@
 - [Day 8: I Heard You Like Registers](http://adventofcode.com/2017/day/8)
     - Part 1: [registers.py](08/registers.py)
     - Part 2: [registers_part_two.py](08/registers_part_two.py)
+- [Day 9: Stream Processing](http://adventofcode.com/2017/day/9)
+    - Part 1: [stream_processing.py](09/stream_processing.py)
+    - Part 2: [stream_processing_part_two.py](09/stream_processing_part_two.py)
