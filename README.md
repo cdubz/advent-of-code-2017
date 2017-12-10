@@ -27,3 +27,6 @@
 - [Day 9: Stream Processing](http://adventofcode.com/2017/day/9)
     - Part 1: [stream_processing.py](09/stream_processing.py)
     - Part 2: [stream_processing_part_two.py](09/stream_processing_part_two.py)
+- [Day 10: Knot Hash](http://adventofcode.com/2017/day/10)
+    - Part 1: [knot_hash.py](10/knot_hash.py)
+    - Part 2: [knot_hash_part_two.py](10/knot_hash_part_two.py)
