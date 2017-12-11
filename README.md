@@ -30,3 +30,6 @@
 - [Day 10: Knot Hash](http://adventofcode.com/2017/day/10)
     - Part 1: [knot_hash.py](10/knot_hash.py)
     - Part 2: [knot_hash_part_two.py](10/knot_hash_part_two.py)
+- [Day 11: Hex Ed](http://adventofcode.com/2017/day/11)
+    - Part 1: [hex_ed.py](11/hex_ed.py)
+    - Part 2: [hex_ed_part_two.py](11/hex_ed_part_two.py)
