@@ -33,3 +33,6 @@
 - [Day 11: Hex Ed](http://adventofcode.com/2017/day/11)
     - Part 1: [hex_ed.py](11/hex_ed.py)
     - Part 2: [hex_ed_part_two.py](11/hex_ed_part_two.py)
+- [Day 12: Digital Plumber](http://adventofcode.com/2017/day/12)
+    - Part 1: [digital_plumber.py](12/digital_plumber.py)
+    - Part 2: [digital_plumber_part_two.py](12/digital_plumber_part_two.py)
