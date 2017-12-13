@@ -36,3 +36,6 @@
 - [Day 12: Digital Plumber](http://adventofcode.com/2017/day/12)
     - Part 1: [digital_plumber.py](12/digital_plumber.py)
     - Part 2: [digital_plumber_part_two.py](12/digital_plumber_part_two.py)
+- [Day 13: Packet Scanners](http://adventofcode.com/2017/day/13)
+    - Part 1: [packet_scanners.py](13/packet_scanners.py)
+    - Part 2: [packet_scanners_part_two.py](13/packet_scanners_part_two.py)
