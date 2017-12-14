@@ -39,3 +39,6 @@
 - [Day 13: Packet Scanners](http://adventofcode.com/2017/day/13)
     - Part 1: [packet_scanners.py](13/packet_scanners.py)
     - Part 2: [packet_scanners_part_two.py](13/packet_scanners_part_two.py)
+- [Day 14: Disk Defragmentation](http://adventofcode.com/2017/day/14)
+    - Part 1: [disk_defrag.py](14/disk_defrag.py)
+    - Part 2: [disk_defrag_part_two.py](14/disk_defrag_part_two.py)
