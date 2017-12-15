@@ -42,3 +42,6 @@
 - [Day 14: Disk Defragmentation](http://adventofcode.com/2017/day/14)
     - Part 1: [disk_defrag.py](14/disk_defrag.py)
     - Part 2: [disk_defrag_part_two.py](14/disk_defrag_part_two.py)
+- [Day 15: Dueling Generators](http://adventofcode.com/2017/day/15)
+    - Part 1: [dueling_generators.py](15/dueling_generators.py)
+    - Part 2: [dueling_generators_part_two.py](15/dueling_generators_part_two.py)
