@@ -45,3 +45,6 @@
 - [Day 15: Dueling Generators](http://adventofcode.com/2017/day/15)
     - Part 1: [dueling_generators.py](15/dueling_generators.py)
     - Part 2: [dueling_generators_part_two.py](15/dueling_generators_part_two.py)
+- [Day 16: Permutation Promenade](http://adventofcode.com/2017/day/16)
+    - Part 1: [permutation_promenade.py](16/permutation_promenade.py)
+    - Part 2: [permutation_promenade_part_two.py](16/permutation_promenade_part_two.py)
