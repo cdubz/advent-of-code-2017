@@ -8,6 +8,7 @@ name = "pypi"
 [packages]
 
 "progressbar2" = "*"
+line-profiler = "*"
 
 
 [dev-packages]

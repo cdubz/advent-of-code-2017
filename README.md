@@ -48,3 +48,6 @@
 - [Day 16: Permutation Promenade](http://adventofcode.com/2017/day/16)
     - Part 1: [permutation_promenade.py](16/permutation_promenade.py)
     - Part 2: [permutation_promenade_part_two.py](16/permutation_promenade_part_two.py)
+- [Day 17: Spinlock](http://adventofcode.com/2017/day/17)
+    - Part 1: [spinlock.py](17/spinlock.py)
+    - Part 2: [spinlock_part_two.py](17/spinlock_part_two.py)
