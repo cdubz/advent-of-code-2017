@@ -54,3 +54,6 @@
 - [Day 18: Duet](http://adventofcode.com/2017/day/18)
     - Part 1: [duet.py](18/duet.py)
     - Part 2: [duet_part_two.py](18/duet.py)
+- [Day 19: A Series of Tubes](http://adventofcode.com/2017/day/19)
+    - Part 1: [tubes.py](19/tubes.py)
+    - Part 2: [tubes_part_two.py](19/tubes.py)
