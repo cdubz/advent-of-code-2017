@@ -63,4 +63,6 @@
 - [Day 21: Fractal Art](http://adventofcode.com/2017/day/21)
     - Part 1: [fractal_art.py](21/fractal_art.py)
     - Part 2: [fractal_art_part_two.py](21/fractal_art_part_two.py)
-
+- [Day 22: Sporifica Virus](http://adventofcode.com/2017/day/22)
+    - Part 1: [sporifica_virus.py](22/sporifica_virus.py)
+    - Part 2: [sporifica_virus_part_two.py](22/sporifica_virus_part_two.py)
