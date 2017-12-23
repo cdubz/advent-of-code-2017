@@ -60,4 +60,7 @@
 - [Day 20: Particle Swarm](http://adventofcode.com/2017/day/20)
     - Part 1: [particle_swarm.py](20/particle_swarm.py)
     - Part 2: [particle_swarm_part_two.py](20/particle_swarm_part_two.py)
+- [Day 21: Fractal Art](http://adventofcode.com/2017/day/21)
+    - Part 1: [fractal_art.py](21/fractal_art.py)
+    - Part 2: [fractal_art_part_two.py](21/fractal_art_part_two.py)
 
